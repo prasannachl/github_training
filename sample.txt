@@ -1,1 +1,2 @@
 This is my first line in first sample.txt file.
+This is new feature.
