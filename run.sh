@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "I am enjoying jenkins"
-echo "I love dancing and singing"
+echo "I love dancing,singing and cleaning"
